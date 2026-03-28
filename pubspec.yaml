@@ -1,0 +1,8 @@
+name: facilguide
+version: 0.1.0
+description: Multilingual tech guide utilities. Guides in EN, ES, FR, PT, IT.
+homepage: https://facil.guide
+repository: https://github.com/arnaudleroy-studio/facilguide-dart
+documentation: https://facil.guide/en/
+environment:
+  sdk: '>=3.0.0 <4.0.0'
