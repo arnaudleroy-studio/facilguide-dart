@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "facilguide"
+  ],
+  "packages": [
+    {
+      "name": "facilguide",
+      "version": "0.1.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

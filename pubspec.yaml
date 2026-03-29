@@ -1,6 +1,6 @@
 name: facilguide
-version: 0.1.0
-description: Multilingual tech guide utilities. Guides in EN, ES, FR, PT, IT.
+version: 0.1.1
+description: Multilingual content utilities for tech guides. Locale detection, translation, hreflang, reading time, accessibility helpers for EN, ES, FR, PT, IT.
 homepage: https://facil.guide
 repository: https://github.com/arnaudleroy-studio/facilguide-dart
 documentation: https://facil.guide/en/
